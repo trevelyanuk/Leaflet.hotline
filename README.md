@@ -1,3 +1,5 @@
+This fork is to facilitate some of the updates to Leaflet.heat which has been abandoned for years. Notably adding alpha transparency..
+
 # Leaflet.hotline
 
 A Leaflet plugin for drawing colored gradients along polylines. This is useful for visualising values along a course, for example: elevation, velocity, or heart rate.

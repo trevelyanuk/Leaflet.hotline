@@ -201,7 +201,8 @@
 			return [
 				this._palette[paletteIndex],
 				this._palette[paletteIndex + 1],
-				this._palette[paletteIndex + 2]
+				this._palette[paletteIndex + 2],
+				this._palette[paletteIndex + 3] / 255.0
 			];
 		},
 
